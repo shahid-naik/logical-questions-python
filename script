@@ -1,0 +1,4 @@
+git status
+git add .
+git commit -m "added new features"
+git push origin master
